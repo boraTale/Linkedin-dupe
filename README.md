@@ -1,0 +1,1 @@
+Developed a professional networking platform in Python, applying object-oriented programming to match candidates with suitable jobs. This project emphasized on algorithmic matching, data structures for efficient profile management, and problem-solving skills in software development.
